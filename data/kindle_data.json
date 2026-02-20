@@ -13,10 +13,16 @@
     "2026-01-06",
     "2026-01-08",
     "2026-01-14",
-    "2026-01-15"
+    "2026-01-15",
+    "2026-02-18"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-02-18T08:00:00.000Z",
+    "start": "2026-02-18T00:00:00.000Z",
+    "end": "2026-02-18T00:00:00.000Z",
+    "ttl": 1771554915
   },
   "longest_daily_streak": {
     "duration": 10,
@@ -26,7 +32,12 @@
     "end": "2026-01-06T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-02-18T08:00:00.000Z",
+    "start": "2026-02-18T00:00:00.000Z",
+    "end": "2026-02-18T00:00:00.000Z",
+    "ttl": 1771554915
   },
   "longest_weekly_streak": {
     "duration": 4,
@@ -35,7 +46,7 @@
     "start": "2025-12-24T00:00:00.000Z",
     "end": "2026-01-15T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "inactive",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {
       "TITLES_READ_YEAR_2025": {
@@ -68,16 +79,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 41,
+    "daysLeftInCurrentChallenge": 40,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookish_59a1a25a-c831-32be-9dee-cb84602cba40.png",
-        "quantity": 1,
-        "title": "Bookish",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_HeadStart_896ce0f2-38a8-30c7-b3ac-0715b1a782ba.png",
+        "quantity": 2,
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",

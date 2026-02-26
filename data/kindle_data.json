@@ -14,7 +14,10 @@
     "2026-01-08",
     "2026-01-14",
     "2026-01-15",
-    "2026-02-18"
+    "2026-02-18",
+    "2026-02-19",
+    "2026-02-20",
+    "2026-02-23"
   ],
   "current_daily_streak": {
     "duration": 0
@@ -27,12 +30,12 @@
     "end": "2026-01-06T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 1,
+    "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-18T08:00:00.000Z",
+    "utcEndTime": "2026-02-23T08:00:00.000Z",
     "start": "2026-02-18T00:00:00.000Z",
-    "end": "2026-02-18T00:00:00.000Z",
-    "ttl": 1771987183
+    "end": "2026-02-23T00:00:00.000Z",
+    "ttl": 1772073299
   },
   "longest_weekly_streak": {
     "duration": 4,
@@ -41,7 +44,7 @@
     "start": "2025-12-24T00:00:00.000Z",
     "end": "2026-01-15T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "active",
+  "current_weekly_streak_state": "approaching_record_streak",
   "goal_info": {
     "goals": {
       "TITLES_READ_YEAR_2025": {
@@ -74,16 +77,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 35,
+    "daysLeftInCurrentChallenge": 34,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 3,
+    "totalEarnedAchievements": 4,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_HeadStart_896ce0f2-38a8-30c7-b3ac-0715b1a782ba.png",
-        "quantity": 2,
-        "title": "Head Start",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_ReadersDozen_49b2b7ea-eab2-4f91-9897-9ef7482f87d9.png",
+        "quantity": 1,
+        "title": "Reader's Dozen",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",

@@ -20,10 +20,17 @@
     "2026-02-23",
     "2026-03-03",
     "2026-03-04",
-    "2026-03-11"
+    "2026-03-11",
+    "2026-03-18",
+    "2026-03-19"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 2,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-03-19T07:00:00.000Z",
+    "start": "2026-03-18T00:00:00.000Z",
+    "end": "2026-03-19T00:00:00.000Z",
+    "ttl": 1773974090
   },
   "longest_daily_streak": {
     "duration": 10,
@@ -33,19 +40,19 @@
     "end": "2026-01-06T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 4,
+    "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-11T07:00:00.000Z",
+    "utcEndTime": "2026-03-19T07:00:00.000Z",
     "start": "2026-02-18T00:00:00.000Z",
-    "end": "2026-03-11T00:00:00.000Z",
-    "ttl": 1773888261
+    "end": "2026-03-19T00:00:00.000Z",
+    "ttl": 1773974090
   },
   "longest_weekly_streak": {
-    "duration": 4,
+    "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-03-11T07:00:00.000Z",
+    "utcEndTime": "2026-03-19T07:00:00.000Z",
     "start": "2026-02-18T00:00:00.000Z",
-    "end": "2026-03-11T00:00:00.000Z"
+    "end": "2026-03-19T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -57,6 +64,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "2ADC38966EFB415FACD3B4E68312186D",
+        "read_event_id": "3afb97d9-3df0-4ca1-9a3d-b7a06431f2a3",
+        "date_read": "2026-03-18T21:23:12-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "CF1EF686C05D4648B10B6FD16EF99142",
         "read_event_id": "4aca9a16-3a96-4468-bb02-5f7f090763a8",
@@ -80,14 +95,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 13,
+    "daysLeftInCurrentChallenge": 12,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 5,
+    "totalEarnedAchievements": 7,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_BronzeReader_135d1a59-dd53-3262-9a3d-f97eb0adb5df.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookworm_50bad16e-c23b-3f36-af72-4fe0a33286c3.png",
         "quantity": 1,
-        "title": "Bronze Reader",
+        "title": "Bookworm",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },

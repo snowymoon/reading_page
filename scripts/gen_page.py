@@ -514,19 +514,19 @@ def generate_html(reading_data, output_file="index.html"):
         <div class="main-layout">
             <div class="stats">
                 <div class="stat-item">
-                    <div class="stat-label">Total Days</div>
+                    <div class="stat-label">Total Days（总天数）</div>
                     <div class="stat-value">{stats['total_days']}<span class="stat-unit">天</span></div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-label">This Month</div>
+                    <div class="stat-label">This Month（本月）</div>
                     <div class="stat-value">{stats['this_month_days']}<span class="stat-unit">天</span></div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-label">Current Streak</div>
+                    <div class="stat-label">Current Streak（当前连续）</div>
                     <div class="stat-value">{stats['current_streak']}<span class="stat-unit">天</span></div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-label">Longest Streak</div>
+                    <div class="stat-label">Longest Streak（最长连续）</div>
                     <div class="stat-value">{stats['longest_streak']}<span class="stat-unit">天</span></div>
                 </div>
             </div>
